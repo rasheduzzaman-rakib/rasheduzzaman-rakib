@@ -1,21 +1,19 @@
-<h1 align="center">Hi 👋, I'm Rashed</h1>
-<h3 align="center">A passionate competitive programmer</h3>
+<h3 align="left">Hi 👋, I'm Rashed</h3>
+<h3 align="left">A passionate competitive programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasheduzzaman-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="rasheduzzaman-rakib" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rasheduzzaman_r" target="blank"><img src="https://img.shields.io/twitter/follow/rasheduzzaman_r?logo=twitter&style=for-the-badge" alt="rasheduzzaman_r" /></a> </p>
 
-- 🌱 I’m studying Computer Science at Dhaka International University 
+- Studying Computer Science at Dhaka International University 
 
-- 🌱 I’m currently learning **DSA**
+- I’m currently learning DSA
 
-- 👨‍💻 All of my projects are available at [rasheduzzaman-rakib.github.io](rasheduzzaman-rakib.github.io)
+- All of my projects are available at (rasheduzzaman-rakib.github.io)
 
-- 📝 I regularly write articles on [https://sites.google.com/view/rasheduzzamanrakib](https://sites.google.com/view/rasheduzzamanrakib)
+- I regularly write articles on (https://sites.google.com/view/rasheduzzamanrakib)
 
-- 💬 Ask me about **core programming concept.**
-
-- 📫 How to reach me **contact.rasheduzzaman@students.diu.ac**
+- How to reach me **contact.rasheduzzaman@students.diu.ac**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
