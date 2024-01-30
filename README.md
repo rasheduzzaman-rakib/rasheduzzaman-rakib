@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rasheduzzaman_r" target="blank"><img src="https://img.shields.io/twitter/follow/rasheduzzaman_r?logo=twitter&style=for-the-badge" alt="rasheduzzaman_r" /></a> </p>
 
-- Studying Computer Science at Dhaka International University 
+- Studying Computer Science at Dhaka International University
 
 - I’m currently learning DSA
 
