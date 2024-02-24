@@ -13,7 +13,7 @@
 
 - I regularly write articles on (https://sites.google.com/view/rasheduzzamanrakib)
 
-- How to reach me **contact.rasheduzzaman@students.diu.ac**
+- How to reach me **rashed@students.diu.ac**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
