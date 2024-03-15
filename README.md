@@ -9,7 +9,7 @@
 
 - I’m currently learning DSA
 
-- All of my projects are available at **(rasheduzzaman-rakib.github.io)**
+- All of my projects are available at (https://rasheduzzaman-rakib.github.io/)
 
 - I regularly write articles on (https://sites.google.com/view/rasheduzzamanrakib)
 
