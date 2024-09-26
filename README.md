@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/rasheduzzaman_r" target="blank"><img src="https://img.shields.io/twitter/follow/rasheduzzaman_r?logo=twitter&style=for-the-badge" alt="rasheduzzaman_r" /></a> </p>
 
-- Studying Computer Science at Dhaka International University
+- Studies Computer Science at Dhaka International University
 
-- I’m currently learning DSA
+- I’m currently learning Data Structure & Algorithm
 
-- All of my projects are available at (https://rasheduzzaman-rakib.github.io/)
-
+- My Portfolio (https://rasheduzzaman-rakib.github.io/)
+  
 - I regularly write articles on (https://sites.google.com/view/rasheduzzamanrakib)
 
-- Reach me at **rashed@students.diu.ac**
+- Contact me at **rashed@students.diu.ac**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
